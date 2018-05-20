@@ -9,7 +9,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 05/03/2018
 ---
 # <a name="navigation-property"></a>Navigation Property — 导航属性
-A*导航属性*上是一个可选属性[实体类型](../../../../docs/framework/data/adonet/entity-type.md)它允许从一个导航[结束](../../../../docs/framework/data/adonet/association-end.md)的[关联](../../../../docs/framework/data/adonet/association-type.md)到另一端。 与其他不同[属性](../../../../docs/framework/data/adonet/property.md)，导航属性并不携带数据。  
+*导航属性*是一个可选的属性[实体类型](../../../../docs/framework/data/adonet/entity-type.md)，它允许从一个导航[端](../../../../docs/framework/data/adonet/association-end.md)[关联](../../../../docs/framework/data/adonet/association-type.md)到另一端。 与其他不同[属性](../../../../docs/framework/data/adonet/property.md)，导航属性并不携带数据。  
   
  导航属性定义包含以下信息：  
   
